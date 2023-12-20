@@ -1,0 +1,12 @@
+.search_btn {
+  background: #479c88;
+  border: none;
+  margin-top: 5%;
+}
+
+.add_btn{
+  display: flex;
+  justify-content: right;
+  width: 30%;
+  margin-left: 60%;
+}
